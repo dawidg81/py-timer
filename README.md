@@ -2,8 +2,10 @@
 If you have any questions or you want to submit a new feature in this program, feel free to post your entry in the "Issues" tab.
 <hr>
 <h2>Basic Informations</h2>
-Version 1.0
-Build 6
+Version <b>1.0</b>
+<br>
+<br>
+Build <b>6</b>
 <hr>
 <h4>Before and installment, please meet these requirements for your device:</h4>
 1. At least 22 (python file is 4 megabytes and Python is 18 megabytes) megabytes of memory in the disk in the device.
