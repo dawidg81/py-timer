@@ -15,6 +15,7 @@ If you're installing this file in the GNU Linux terminal, to ease the installati
 <hr>
 To install the file:
 <br>
+<br>
 1. Install the ZIP file on github.
 <br>
 2. Unpack the ZIP file.
