@@ -117,9 +117,9 @@ while True:
                 This is the list of available commands in the TIMER SETTING mode:
 
                 help - Shows this list.
-                h - Sets the hours of the timer.
-                m - Sets the minutes of the timer.
-                s - Sets the seconds of the timer.
+                h <value> - Sets the hours of the timer.
+                m <value> - Sets the minutes of the timer.
+                s <value> - Sets the seconds of the timer.
                 start - Starts the countdown of the timer.
                 pause - Pauses the countdown of the timer.
                 stop - Stops and resets the progress of the timer.
