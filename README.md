@@ -16,5 +16,7 @@ If you're installing this file in the GNU Linux terminal, to ease the installati
 To install the file:
 <br>
 1. Install the ZIP file on github.
+<br>
 2. Unpack the ZIP file.
+<br>
 3. Open "timer.py" file.
