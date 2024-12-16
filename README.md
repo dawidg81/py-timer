@@ -7,7 +7,8 @@ Build 6
 
 <h2>Installation</h2>
 If you're installing this file in the GNU Linux terminal, to ease the installation progress, install Midnight Commander (as the "mc" package: `pkg install mc`)
-Python 3.12.3 or higher is required.
+<hr>
+# Python 3.12.3 or higher is required.
 <hr>
 To install the file:
 
