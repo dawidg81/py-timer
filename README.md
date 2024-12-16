@@ -9,7 +9,7 @@ Build <b>6</b>
 <hr>
 <h2>Requirements</h2>
 <h4>Requirements for your device before installment:</h4>
-1. At least 22 (python file is 4 megabytes and Python is 18 megabytes) megabytes of memory in the disk in the device.
+1. At least 23 (python file is 5 megabytes and Python is 18 megabytes) megabytes of memory in the disk in the device.
 <br>
 2. Python 3.12.3 or higher installed.
 <hr>
