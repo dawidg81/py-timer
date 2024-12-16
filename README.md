@@ -6,6 +6,9 @@ Version <b>1.0</b>
 <br>
 <br>
 Build <b>6</b>
+<br>
+<br>
+The program is made from <b>158</b> lines of Python code. <b>125</b> lines are in use.
 <hr>
 <h2>Requirements</h2>
 <h4>Requirements for your device before installment:</h4>
