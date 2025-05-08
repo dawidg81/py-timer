@@ -3,7 +3,7 @@ import time
 # Function to display the splash text
 def splashtext():
     print("Timer 0-1")
-    print("help' for commands, 'quit' to quit.)
+    print("'help' for commands, 'quit' to quit.")
 
 # Timer Class to handle timer operations
 class Timer:
