@@ -2,10 +2,9 @@
 If you have any questions or you want to submit a new feature in this program, feel free to post your entry in the "Issues" tab.
 <hr>
 <h2>Basic Informations</h2>
-Version <b>1.0</b>
+Version <b>0-1</b>
 <br>
 <br>
-Build <b>6</b>
 <br>
 <br>
 The program is made from <b>158</b> lines of Python code. <b>125</b> lines are in use.
