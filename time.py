@@ -2,10 +2,8 @@ import time
 
 # Function to display the splash text
 def splashtext():
-    print("Timer 1.0")
-    print("Welcome to Timer, a simple program written in Python to set timers in a form of a countdown.")
-    print("Note that this is only the prototype. Multiple timers aren't supported yet.")
-    print("Enter the 'help' command to see available commands of this software, enter the 'quit' command to quit the program.")
+    print("Timer 0-1")
+    print("help' for commands, 'quit' to quit.)
 
 # Timer Class to handle timer operations
 class Timer:
@@ -31,6 +29,10 @@ class Timer:
     def start(self):
         if self.hours == 0 and self.minutes == 0 and self.seconds == 0:
             print("You must set the timer first!")
+            return
+            
+        if self.hours > 24 and self.minutes > 59 and self.seconds > 59:
+            print("Invalid numbers! Hours can't be more than 24, minutes and seconds can't be more than 59.")
             return
         self.running = True
         self.paused = False
